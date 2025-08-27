@@ -31,5 +31,5 @@
 /vendor/
 /metafile
 .DS_Store
-.secrets
-.files-for-initial-installation-run
+.secrets/
+.files-for-initial-installation-run/
