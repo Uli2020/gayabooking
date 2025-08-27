@@ -32,3 +32,4 @@
 /metafile
 .DS_Store
 .secrets
+.files-for-initial-installation-run
